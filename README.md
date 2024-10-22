@@ -1,4 +1,4 @@
-# Paul's Capstone Update
+# Paul's Capstone Update Part 2
 
 ### Describe your project (big idea)
 
