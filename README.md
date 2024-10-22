@@ -1,4 +1,4 @@
-# CAPSTONE DEMO README
+# Paul's Capstone Update
 
 ### Describe your project (big idea)
 
